@@ -283,7 +283,6 @@ commandUpdated: # <-- because this is commandUpdated, patchFile is ignored
        kind: Namespace
        metadata:
          name: demo"
-  patchFile: patchfile.yaml
 `
 
 // This tests that when using a config with no update commands, and
