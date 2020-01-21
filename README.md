@@ -50,7 +50,7 @@ container images and config changes are propagated to the cluster.
 |[ABA English](https://www.abaenglish.com) |[APPUiO](https://appuio.ch)|[Apester](https://apester.com)
 |[ArangoDB Oasis](https://arangodb.com/managed-service)|[Avisi](https://avisi.nl)|[B3i](https://b3i.tech/)
 |[Babylon Health](https://www.babylonhealth.com/)|[bimspot](https://bimspot.io)|[Canva](https://www.canva.com/)
-|[CLVR Cloud Ltd](https://clvr.cloud)|[College of William & Mary](https://www.wm.edu)|[Control Plane](https://control-plane.io)
+|[Cloudlets](https://cloudlets.io)|[CLVR Cloud Ltd](https://clvr.cloud)|[College of William & Mary](https://www.wm.edu)|[Control Plane](https://control-plane.io)
 |[Crowd Riff](https://crowdriff.com)|[Cybrary](https://cybrary.it)|[FireHydrant](https://firehydrant.io)
 |[Gini](https://gini.net)|[HMCTS](https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service)|[IBM Cloudant](https://www.ibm.com/cloud/cloudant)
 |[Improwised Technologies](https://www.improwised.com/)|[Infabode](https://infabode.com)|[iQmetrix](https://www.iqmetrix.com)
